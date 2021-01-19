@@ -1,0 +1,14 @@
+body {
+    /* background-color: #393f68; */
+    
+}
+*{
+    /* color: #fff; */
+    font-family: sans-serif;
+}
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}

@@ -1,0 +1,15 @@
+.card{
+    margin: 0 auto;
+}
+.card * {
+    color: #000;
+    font-family: 'Redressed', cursive;
+}
+.card .card-img-top {
+    max-height: 250px;
+    width: auto;
+    background-size: cover;
+}
+.card-title{
+    text-align: center;
+}
